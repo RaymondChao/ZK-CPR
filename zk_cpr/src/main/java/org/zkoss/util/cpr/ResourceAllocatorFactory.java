@@ -6,7 +6,7 @@ package org.zkoss.util.cpr;
 import java.io.IOException;
 import java.io.InputStream;
 
-import org.zkoss.spring.core.io.Resource;
+import org.springframework.core.io.Resource;
 
 /**
  * @author Ian YT Tsai(zanyking)

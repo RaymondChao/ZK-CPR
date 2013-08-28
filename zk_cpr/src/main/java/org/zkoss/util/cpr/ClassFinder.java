@@ -3,9 +3,9 @@
  */
 package org.zkoss.util.cpr;
 
-import org.zkoss.spring.core.io.support.ResourcePatternResolver;
-import org.zkoss.spring.util.ClassUtils;
-import org.zkoss.spring.util.SystemPropertyUtils;
+import org.springframework.core.io.support.ResourcePatternResolver;
+import org.springframework.util.ClassUtils;
+import org.springframework.util.SystemPropertyUtils;
 
 /**
  *  A helper class to help retrieving each "*.class" resource under given package.

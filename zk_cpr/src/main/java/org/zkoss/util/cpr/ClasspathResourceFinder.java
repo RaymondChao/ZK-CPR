@@ -5,8 +5,8 @@ package org.zkoss.util.cpr;
 
 import java.io.IOException;
 
-import org.zkoss.spring.core.io.Resource;
-import org.zkoss.spring.core.io.support.PathMatchingResourcePatternResolver;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 
 /**
  * @author Ian YT Tsai(zanyking)
